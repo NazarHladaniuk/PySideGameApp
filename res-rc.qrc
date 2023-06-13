@@ -1,0 +1,12 @@
+<RCC>
+  <qresource prefix="icon">
+    <file>logo_icons/barrel.svg</file>
+    <file>logo_icons/container.svg</file>
+    <file>logo_icons/git-repository.svg</file>
+    <file>logo_icons/logo.svg</file>
+    <file>logo_icons/pacman.svg</file>
+    <file>logo_icons/pong_logo.svg</file>
+    <file>logo_icons/setting.svg</file>
+    <file>logo_icons/snake_logo.svg</file>
+  </qresource>
+</RCC>
